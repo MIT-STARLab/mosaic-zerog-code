@@ -8,4 +8,4 @@ Notebooks are in this repository
 
 # Data 
 
-Data coming soon
+https://zenodo.org/record/8316785
